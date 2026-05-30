@@ -1,0 +1,46 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+.utmp/
+
+# Unity and IDE generated project files
+*.csproj
+*.sln
+*.slnx
+*.unityproj
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+.vs/
+.vscode/
+
+# Build outputs
+[Bb]uild/
+[Bb]uilds/
+*.apk
+*.aab
+
+# Local backups and archives
+_lighting_revert_backup/
+*.rar
+*.zip
+
+# Generated dataset and ML outputs
+WeldImageDataset/
+WeldImageDataset_Split/
+WeldClassifierRuns/
+RealWeldPhotos/
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
